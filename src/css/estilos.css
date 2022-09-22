@@ -18,18 +18,12 @@ body {
 .containerpai {
     display: flex;
     flex-direction: row;
+    border-radius: 20px;
     width: 800px;
     height: 500px;
-    
     border-radius: 20px;
     background-color: white;
+    overflow: hidden;
 }
 
-.imagem {
-    display: inline-block;
-    border-bottom-left-radius: 20px;
-    border-radius: 20px;
-   
-    
-}
 
