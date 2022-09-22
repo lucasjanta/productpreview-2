@@ -19,11 +19,73 @@ body {
     display: flex;
     flex-direction: row;
     border-radius: 20px;
-    width: 800px;
-    height: 500px;
+    width: 40em;
+    height: 30em;
     border-radius: 20px;
     background-color: white;
     overflow: hidden;
 }
 
+.ladodireito {
+    display: flex;
+    flex-direction: column;
+}
+
+h1, h3 {
+    font-family: 'Fraunces', serif;
+    margin-left: 30px;
+}
+
+.perfume{
+    letter-spacing: 0.4em;
+    margin-top: 35px;
+    margin-left: 30px;
+    font-size: 0.8em;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.2em;
+    line-height: 0.9em;
+    margin-top: 25px;
+}
+
+.description{
+    margin-top: 25px;
+    margin-right: 45px;
+    margin-left: 30px;
+    line-height: 1.7em;
+    font-size: 0.95em;
+}
+
+h3 {
+    color: hsl(158, 36%, 37%);
+    font-size: 2.2em;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+}
+
+h3 del {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.4em;
+    font-weight: 500;
+    margin-left: 30px;
+}
+
+.botao{
+    background-color: hsl(158, 36%, 37%);
+    text-decoration: none;
+    width: 16em;
+    height: 3em;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 10px;
+    border-radius: 10px;
+}
 
