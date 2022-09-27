@@ -15,6 +15,8 @@ body {
     align-items: center;
 }
 
+
+
 .containerpai {
     display: flex;
     flex-direction: row;
@@ -48,6 +50,7 @@ h1 {
     font-size: 2.2em;
     line-height: 0.9em;
     margin-top: 25px;
+    margin-right: 1em;
 }
 
 .description{
@@ -89,3 +92,61 @@ h3 del {
     border-radius: 10px;
 }
 
+@media screen and (max-width: 768px){
+
+    .containerpai {
+        display: flex;
+        flex-direction: column;
+        border-radius: 20px;
+        width: 30em;
+        height: 50em;
+        margin: auto;
+        border-radius: 20px;
+        background-color: white;
+        overflow: hidden;
+    }
+
+    .imagem {
+        display: flex;
+        width: auto;
+        height: 21em;
+    }
+
+    .perfume{
+        margin-top: 30px;
+        font-size: 1em;
+    }
+
+    h1 {
+        font-size: 2.7em;
+    }
+
+    .description{
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+
+    h3 {
+        color: hsl(158, 36%, 37%);
+        font-size: 2.2em;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .botao{
+        width: 26em;
+        height: 4em;
+    }
+    
+    
+}
+@media screen and (min-width: 768px){
+    
+.botao:hover {
+    cursor: pointer;
+    background-color: hsl(212, 21%, 14%);
+}
+
+}
