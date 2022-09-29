@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -58,9 +57,3 @@ I learned how to work with the tag <picture>
 
 - Frontend Mentor - [@lucasjanta](https://www.frontendmentor.io/profile/lucasjanta)
 - Twitter - [@lucasjanta](https://www.twitter.com/lucasjanta)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
