@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to work with the tag <picture>
+I learned how to work with the tag picture
 
 ```html
 <picture>

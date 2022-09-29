@@ -33,7 +33,7 @@ body {
     flex-direction: column;
 }
 
-h1, h3 {
+h1, h2 {
     font-family: 'Fraunces', serif;
     margin-left: 30px;
 }
@@ -61,7 +61,7 @@ h1 {
     font-size: 0.95em;
 }
 
-h3 {
+h2 {
     color: hsl(158, 36%, 37%);
     font-size: 2.2em;
     margin-top: 25px;
@@ -70,7 +70,7 @@ h3 {
     align-items: center;
 }
 
-h3 del {
+h2 del {
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.4em;
@@ -126,7 +126,7 @@ h3 del {
         margin-top: 20px;
     }
 
-    h3 {
+    h2 {
         color: hsl(158, 36%, 37%);
         font-size: 2.2em;
         margin-top: 20px;
